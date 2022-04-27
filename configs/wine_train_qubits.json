@@ -1,0 +1,11 @@
+{
+	"dataset": "wine",
+	"data_path": "wineclass12_scaled.npy",
+	"iters": 50,
+    "qubits": [4,5,6,7,8, 9, 10],
+    "layers": 2,
+	"init": "beta_bayes",
+	"optimizer": "nesterov",
+	"lr": 0.1,
+	"perturb": true
+}
