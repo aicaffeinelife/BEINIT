@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+numpy==1.22.0
+PennyLane==0.20.0
+scikit_learn==1.1.2
+scipy==1.7.3
